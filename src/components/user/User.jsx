@@ -10,7 +10,7 @@ export default function User(props) {
     <article className={style.user} >
         <div>
             <p>{id}</p>
-            <h3>Name: {name}  {username}</h3>
+            <h3>Name: {name}</h3>
             <h3>Email: {email}</h3>
             <p>Phone: {phone}</p>
             <p>Website: {website}</p>
