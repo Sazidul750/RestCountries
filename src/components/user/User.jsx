@@ -12,7 +12,7 @@ export default function User(props) {
             <p>{id}</p>
             <h3>Name: {name}</h3>
             <h3>Email: {email}</h3>
-            <p>Phone: {phone}</p>
+            <p>Phones: {phone}</p>
             <p>Website: {website}</p>
             <p>Company: {company.name}</p>
             <p>Address: {address.street}</p>
